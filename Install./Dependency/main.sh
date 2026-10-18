@@ -5,5 +5,5 @@ download(){
 
   # Termux-X11
   # https://github.com/termux/termux-x11/releases/tag/nightly
-  
+  wget -c https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-debug.apk
 }
